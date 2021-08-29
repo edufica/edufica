@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @edufica
-- 👀 I’m interested in ...
+- 👀 I’m interested in boardgames, data viz, geography, boooks and geek stuff
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @edufica on TW and IG
 
 <!---
 edufica/edufica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
